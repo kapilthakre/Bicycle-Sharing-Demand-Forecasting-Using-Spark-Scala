@@ -1,4 +1,4 @@
-# Bicycle Sharing Demand Prediction Using Spark&Scala
+# Bicycle Sharing Demand Prediction Using Spark & Scala
 
 ![Spark](https://img.shields.io/badge/Spark-3.0-orange)
 ![Scala](https://img.shields.io/badge/Scala-2.1.2-red)
