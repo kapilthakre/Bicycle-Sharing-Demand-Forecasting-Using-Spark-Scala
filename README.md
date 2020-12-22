@@ -1,5 +1,12 @@
 # Bicycle Sharing Demand Prediction Using Spark&Scala
 
+![Spark](https://img.shields.io/badge/Spark-3.0-orange)
+![Scala](https://img.shields.io/badge/Scala-2.1.2-red)
+![Framework](https://img.shields.io/badge/Framework-Flask-red)
+![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
+![Cloud](https://img.shields.io/badge/API-TMDB-yellow)
+
 ## Overview
 Many Bicycle Sharing Program are running around the world. Bicycle Sharing System are a means of renting bicycle Through these systems, user is able to easily rent a bike from a particular position and return back at another position. And these system is automated via a network of joint location throught the city.
 
