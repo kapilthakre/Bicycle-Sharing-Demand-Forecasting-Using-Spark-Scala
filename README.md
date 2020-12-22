@@ -3,7 +3,7 @@
 ![Spark](https://img.shields.io/badge/Spark-3.0-orange)
 ![Scala](https://img.shields.io/badge/Scala-2.1.2-red)
 ![Notebook](https://img.shields.io/badge/Notebook-DataBricks-blue)
-![Hadoop](https://img.shields.io/badge/Apache-Hadoop-pink)
+![Hadoop](https://img.shields.io/badge/Apache-Hadoop-green)
 
 ## Overview
 Many Bicycle Sharing Program are running around the world. Bicycle Sharing System are a means of renting bicycle Through these systems, user is able to easily rent a bike from a particular position and return back at another position. And these system is automated via a network of joint location throught the city.
