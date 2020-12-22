@@ -13,4 +13,4 @@ So we have a historical Data of these bicycle sharing system. Based on this data
 **Note:** I have build two spark application one for **model generation** and another for **model demand prediction**.
 
 ## NoteBook Link :
-Click here to view our Bicycle Sharing Demand prediction project In DataBrick Notebook :https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1213809604916484/1630732396286739/4341593236137157/latest.html
+* Click here to view our Bicycle Sharing Demand prediction project In DataBrick Notebook :https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1213809604916484/1630732396286739/4341593236137157/latest.html
