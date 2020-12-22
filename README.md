@@ -5,4 +5,4 @@ Many Bicycle Sharing Program are running around the world. Bicycle Sharing Syste
 
 So we have a historical Data of these bicycle sharing system. Based on this data we are going to findout the pattern and build the model to forcast bicycle sharing demand.
 
-**Note:** I have build two spark application one for **model generation** and another for **model Demand prediction**.
+**Note:** I have build two spark application one for **Model Generation** and another for **Model Demand Prediction**.
